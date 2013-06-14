@@ -1,15 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://yoursite.com/blog/archives/</loc>
+        <loc>http://resume.ronghai.me/blog/archives/</loc>
         <lastmod>2013-06-13T23:25:05-04:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/</loc>
+        <loc>http://resume.ronghai.me/</loc>
         <lastmod>2013-06-13T23:25:05-04:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/robots.txt</loc>
+        <loc>http://resume.ronghai.me/resume/</loc>
+        <lastmod>2013-06-14T00:17:15-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://resume.ronghai.me/robots.txt</loc>
         <lastmod>2013-06-13T23:25:05-04:00</lastmod>
     </url>
 </urlset>
